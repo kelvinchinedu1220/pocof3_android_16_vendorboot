@@ -162,6 +162,7 @@ SHRP_DEVICE_VERION := Nino_A14
 SHRP_PATH := device/xiaomi/alioth
 SHRP_MAINTAINER := Kelvin_Nino
 SHRP_DEVICE_CODE := alioth
+
 SHRP_REC_TYPE := Treble
 SHRP_DEVICE_TYPE := A/B
 SHRP_NOTCH := true
